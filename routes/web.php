@@ -43,3 +43,12 @@ Route::group(['prefix' => 'kategori-bunga'], function () {
     Route::get('bunga-kering', 'KategoriBungaController@bunga_kering')->name('kategori-bunga.bunga-kering');
     Route::get('bunga-papan', 'KategoriBungaController@bunga_papan')->name('kategori-bunga.bunga-papan');
 });
+
+// Pengiriman
+Route::group(['prefix' => 'pengiriman'], function () {
+    Route::get('jne', 'PengirimanController@jne')->name('pengiriman.jne');
+    Route::get('jnt', 'PengirimanController@jnt')->name('pengiriman.jnt');
+    Route::get('cepat', 'PengirimanController@cepat')->name('pengiriman.cepat');
+});
+
+Route::get('contact-us', 'HomeController@contact_us')->name('kontak');

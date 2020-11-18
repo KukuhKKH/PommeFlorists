@@ -34,14 +34,14 @@
             <a href="#">Pengiriman</a>
             <ul>
                <li>
-                  <a href="#">JNE</a>
-                  <a href="#">J&T</a>
-                  <a href="#">COD</a>
+                  <a href="{{ route('pengiriman.jne') }}">JNE</a>
+                  <a href="{{ route('pengiriman.jnt') }}">J&T</a>
+                  <a href="{{ route('pengiriman.cepat') }}">Si Cepat</a>
                </li>
             </ul>
          </li>
          <li>
-            <a href="#">Contact Us</a>
+            <a href="{{ route('kontak') }}">Contact Us</a>
          </li>
       </ul>
    </div>

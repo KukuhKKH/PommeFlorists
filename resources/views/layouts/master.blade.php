@@ -51,13 +51,20 @@
          <div class="art-box art-sheet">
             <div class="art-box-body art-sheet-body">
                {{-- Header --}}
-               <div class="art-header">
-                  <div class="art-headerobject"></div>
-                  <div class="art-logo">
-                     <h1 class="art-logo-name">
-                        <a href="#">POMME FLORIS</a>
-                     </h1>
-                     <h2 class="art-logo-text">Tersedia Berbagai Jenis Bunga</h2>
+               <div class="row">
+                  <div class="col-10">
+                     <div class="art-header">
+                        <div class="art-headerobject"></div>
+                        <div class="art-logo">
+                           <h1 class="art-logo-name">
+                              <a href="#">POMME FLORIS</a>
+                           </h1>
+                           <h2 class="art-logo-text">Tersedia Berbagai Jenis Bunga</h2>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-2">
+                     <img src="{{ asset('assets/img/logo.jpeg') }}" alt="" width="200">
                   </div>
                </div>
                {{-- End Header --}}
