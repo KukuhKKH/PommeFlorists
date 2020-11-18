@@ -1,0 +1,171 @@
+
+               <div class="art-layout-wrapper">
+                  <div class="art-content-layout">
+                     <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1">
+                           <div class="art-box art-block">
+                              <div class="art-box-body art-block-body">
+                                 <div class="art-bar art-blockheader">
+                                    <h3 class="t"></h3>
+                                 </div>
+                                 <div class="art-box art-blockcontent">
+                                    <div class="art-box-body art-blockcontent-body">
+                                       <form action="" method="post" name="login1" id="form-login">
+                                          <fieldset class="input" style="border: 0 none">
+                                             <p id="form-login-remember"></p>
+                                             <span class="art-button-wrapper">
+                                                <span class="art-button-l"> </span>
+                                                <span class="art-button-r"> </span>
+                                             </span>
+                                          </fieldset>
+                                       </form>
+                                       <div class="cleared"></div>
+                                    </div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="art-box art-block">
+                              <div class="art-box-body art-block-body">
+                                 <div class="art-bar art-blockheader">
+                                    <h3 class="t">Produk Populer</h3>
+                                 </div>
+                                 <div class="art-box art-blockcontent">
+                                    <div class="art-box-body art-blockcontent-body">
+                                       <ul>
+                                          <li>
+                                             <a href="./?pages=viewkeranjang">Bunga Anggrek</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewinvoice">Bunga Soka</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewkeranjang">Bunga Dahlia</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewinvoice">Bunga Mawar</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewpromosi">Bunga Teratai</a>
+                                          </li>
+                                       </ul>
+                                       <div class="cleared"></div>
+                                    </div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="cleared"></div>
+                        </div>
+                        <div class="art-layout-cell art-content">
+                           <div class="art-box art-post">
+                              <div class="art-box-body art-post-body">
+                                 <div class="art-post-inner art-article">
+                                    <div class="art-postcontent">
+                                       <div class="main_content">
+                                          <div class="panel_sepatu">
+                                             <div class="menu_content"></div>
+                                             <div class="judul_content">
+                                                <ul>
+                                                   <li><a>Bunga Meja</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                          <div class="panel_sandal">
+                                             <div class="menu_content2"></div>
+                                             <div class="judul_content2">
+                                                <ul>
+                                                   <li><a>Hand Bouquet</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                          <div class="panel_sepatu2">
+                                             <div class="menu_content3"></div>
+                                             <div class="judul_content3">
+                                                <ul>
+                                                   <li><a>Bunga Kering</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                          <div class="panel_sandal2">
+                                             <div class="menu_content4"></div>
+                                             <div class="judul_content4">
+                                                <ul>
+                                                   <li><a>Bunga Papan</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="cleared"></div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="art-box art-post">
+                              <div class="art-box-body art-post-body">
+                                 <div class="art-post-inner art-article">
+                                    <div class="art-postcontent">
+                                       <table width="100%" border="0">
+                                          <tr></tr>
+                                       </table>
+                                    </div>
+                                    <div class="cleared"></div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="cleared"></div>
+                        </div>
+                        {{-- Menu Kanan --}}
+                        {{-- <div class="art-layout-cell art-sidebar2">
+                           <div class="art-box art-block">
+                              <div class="art-box-body art-block-body">
+                                 <div class="art-bar art-blockheader">
+                                    <h3 class="t">Belanja</h3>
+                                 </div>
+                                 <div class="art-box art-blockcontent">
+                                    <div class="art-box-body art-blockcontent-body">
+                                       <ul>
+                                          <li>
+                                             <a href="./?pages=viewkeranjang">Keranjang Belanja</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewinvoice">Invoice</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=viewpromosi">Promosi</a>
+                                          </li>
+                                          <li>
+                                             <a href="./?pages=konfirmasi">Konfirmasi</a>
+                                          </li>
+                                       </ul>
+                                       <div class="cleared"></div>
+                                    </div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="art-box art-block">
+                              <div class="art-box-body art-block-body">
+                                 <div class="art-bar art-blockheader">
+                                    <h3 class="t">Pembayaran</h3>
+                                 </div>
+                                 <div class="art-box art-blockcontent">
+                                    <div class="art-box-body art-blockcontent-body">
+                                       <div class="bannergroup_text">
+                                          <img src="" /><br />
+                                          <br />
+                                       </div>
+                                       <div class="cleared"></div>
+                                    </div>
+                                 </div>
+                                 <div class="cleared"></div>
+                              </div>
+                           </div>
+                           <div class="cleared"></div>
+                        </div> --}}
+                        {{-- End Menu Kanan --}}
+                     </div>
+                  </div>
+               </div>
